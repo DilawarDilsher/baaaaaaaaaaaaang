@@ -10,7 +10,7 @@ bullet=createSprite(50, 200, 250, 50);
 wall=createSprite(2200, 200,thickness, height/2);
 bullet.shapeColor=color(255,255,255);
 wall.shapeColor=color(80,80,80);
-car.velocityX=speed
+car.velocityX=speed;
 
 }
 function draw() {
